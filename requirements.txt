@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+ipykernel
+torch
+datasets
+librosa
+soundfile
